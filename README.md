@@ -13,15 +13,9 @@ Antes de começar, você precisa ter instalado na sua máquina:
 
 Siga os passos abaixo no terminal:
 
-```bash
-# 1. Crie o projeto com Vite e React
-npm create vite@latest nome-do-projeto -- --template react
-
-# 2. Acesse a pasta do projeto
-cd nome-do-projeto
-
-# 3. Instale as dependências
+# 1. Instale as dependências
 npm install
 
-# 4. Inicie o servidor de desenvolvimento
+# 2. Inicie o servidor de desenvolvimento
 npm run dev
+s
