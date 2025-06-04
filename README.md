@@ -2,7 +2,7 @@
 
 Este projeto foi criado como base para desenvolvimento de aplicações frontend utilizando React com Vite. Ele oferece uma estrutura inicial leve, rápida e moderna para iniciar o desenvolvimento local via `localhost`.
 
-## 📦 Pré-requisitos
+## 📦 Requisitos
 
 Antes de começar, você precisa ter instalado na sua máquina:
 
@@ -14,7 +14,7 @@ Antes de começar, você precisa ter instalado na sua máquina:
 Siga os passos abaixo no terminal:
 
 # 1. Instale as dependências
-npm install
+`npm install`
 
 # 2. Inicie o servidor de desenvolvimento
-npm run dev
+`npm run dev`
