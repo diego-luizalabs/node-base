@@ -14,7 +14,7 @@ Antes de começar, você precisa ter instalado na sua máquina:
 Siga os passos abaixo no terminal:
 
 # 1. Instale as dependências
-npm install
+`` bash npm install
 
 # 2. Inicie o servidor de desenvolvimento
 npm run dev
